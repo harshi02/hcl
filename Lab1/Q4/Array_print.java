@@ -4,7 +4,7 @@
 
 import java.util.Arrays;
 
-public class Arrar_print {
+public class Array_print {
     public static void main(String[] args) {
 		
 		int Arr[] = {5,50,67,100};
